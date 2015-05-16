@@ -1,9 +1,5 @@
-Personal copy of Bottom Framework.
-----------------------------------
-
-
-Bottle Web Framework
-====================
+Personal copy of Bottom Framework
+=================================
 
 .. image:: http://bottlepy.org/docs/dev/_static/logo_nav.png
   :alt: Bottle Logo
